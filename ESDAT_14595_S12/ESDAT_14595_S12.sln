@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniredsocial", "miniredsocial\miniredsocial.csproj", "{6F6B9476-B44F-4DB4-88CF-20E9D4F4806D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_Adyacencia", "Lista_Adyacencia\Lista_Adyacencia.csproj", "{F3902EDE-1C36-489B-97C8-5DE4669C55DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6B9476-B44F-4DB4-88CF-20E9D4F4806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6B9476-B44F-4DB4-88CF-20E9D4F4806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6B9476-B44F-4DB4-88CF-20E9D4F4806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6B9476-B44F-4DB4-88CF-20E9D4F4806D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3902EDE-1C36-489B-97C8-5DE4669C55DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3902EDE-1C36-489B-97C8-5DE4669C55DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3902EDE-1C36-489B-97C8-5DE4669C55DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3902EDE-1C36-489B-97C8-5DE4669C55DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1474E762-4F25-4FB1-AF9D-94481500C075}
+	EndGlobalSection
+EndGlobal

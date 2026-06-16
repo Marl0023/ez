@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrices", "matrices\matrices.csproj", "{FFBAC690-571C-4D7D-B16F-E006A8435F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grafo1", "grafo1\grafo1.csproj", "{F40E8073-E9B7-4598-8F48-ECF753BAA19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniredsocial", "miniredsocial\miniredsocial.csproj", "{9A4B29F2-C008-44B3-BABE-DDD1208055CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBAC690-571C-4D7D-B16F-E006A8435F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBAC690-571C-4D7D-B16F-E006A8435F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBAC690-571C-4D7D-B16F-E006A8435F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBAC690-571C-4D7D-B16F-E006A8435F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40E8073-E9B7-4598-8F48-ECF753BAA19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40E8073-E9B7-4598-8F48-ECF753BAA19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40E8073-E9B7-4598-8F48-ECF753BAA19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40E8073-E9B7-4598-8F48-ECF753BAA19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4B29F2-C008-44B3-BABE-DDD1208055CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4B29F2-C008-44B3-BABE-DDD1208055CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4B29F2-C008-44B3-BABE-DDD1208055CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4B29F2-C008-44B3-BABE-DDD1208055CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF7CDF29-D80F-4668-B879-8FD4A246C43C}
+	EndGlobalSection
+EndGlobal

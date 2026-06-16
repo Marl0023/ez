@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35FF47-ECB7-4279-A82E-93BF4F0280AF}|..\\grafo2\\grafo2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\estaa\\grafo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD35FF47-ECB7-4279-A82E-93BF4F0280AF}|..\\grafo2\\grafo2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\estaa\\grafo2\\redlogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484D1F02-1F23-411F-9254-DE37802FFEC5}|grafo1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\estaa\\grafo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484D1F02-1F23-411F-9254-DE37802FFEC5}|grafo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484D1F02-1F23-411F-9254-DE37802FFEC5}|grafo1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\estaa\\grafo1\\redvial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484D1F02-1F23-411F-9254-DE37802FFEC5}|grafo1.csproj|solutionrelative:redvial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedLogistica.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo2\\RedLogistica.cs",
+              "RelativeDocumentMoniker": "..\\grafo2\\RedLogistica.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo2\\RedLogistica.cs",
+              "RelativeToolTip": "..\\grafo2\\RedLogistica.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwDUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:02:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\grafo2\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo2\\Program.cs",
+              "RelativeToolTip": "..\\grafo2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:51:45.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedVial.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo1\\RedVial.cs",
+              "RelativeDocumentMoniker": "RedVial.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo1\\RedVial.cs",
+              "RelativeToolTip": "RedVial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:19:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\estaa\\grafo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:19:20.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
